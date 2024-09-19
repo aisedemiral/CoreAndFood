@@ -1,0 +1,1469 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/obj/Debug/net6.0/scopedcss/projectbundle/CoreAndFood.bundle.scp.css",
+      "PackagePath": "staticwebassets/CoreAndFood.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/css/clndr.css",
+      "PackagePath": "staticwebassets/css/clndr.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/css/jqvmap.css",
+      "PackagePath": "staticwebassets/css/jqvmap.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/css/nav.css",
+      "PackagePath": "staticwebassets/css/nav.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/css/util.css",
+      "PackagePath": "staticwebassets/css/util.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/css/font-awesome.css",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/animated.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/animated.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/bordered-pulled.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/bordered-pulled.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/core.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/core.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/fixed-width.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/fixed-width.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/font-awesome.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/font-awesome.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/icons.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/icons.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/larger.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/larger.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/list.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/list.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/mixins.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/mixins.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/path.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/path.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/rotated-flipped.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/rotated-flipped.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/screen-reader.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/screen-reader.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/stacked.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/stacked.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/less/variables.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/variables.less"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_animated.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_animated.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_core.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_icons.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_icons.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_larger.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_larger.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_list.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_list.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_path.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_path.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/_variables.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/font-awesome-4.7.0/scss/font-awesome.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/font-awesome.scss"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/iconic/css/material-design-iconic-font.css",
+      "PackagePath": "staticwebassets/fonts/iconic/css/material-design-iconic-font.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/iconic/css/material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets/fonts/iconic/css/material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/iconic/fonts/Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets/fonts/iconic/fonts/Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/iconic/fonts/Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets/fonts/iconic/fonts/Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/iconic/fonts/Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets/fonts/iconic/fonts/Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-Black.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-Black.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-Bold.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-Italic.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-Light.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-Medium.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-Regular.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-Thin.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/fonts/poppins/Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/poppins/Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/ar2.png",
+      "PackagePath": "staticwebassets/images/ar2.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/arrows.png",
+      "PackagePath": "staticwebassets/images/arrows.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/avatar-admin-page.png",
+      "PackagePath": "staticwebassets/images/avatar-admin-page.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/avatar.jpg",
+      "PackagePath": "staticwebassets/images/avatar.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/avatar1.jpg",
+      "PackagePath": "staticwebassets/images/avatar1.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/avatar2.jpg",
+      "PackagePath": "staticwebassets/images/avatar2.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/icons/favicon.ico",
+      "PackagePath": "staticwebassets/images/icons/favicon.ico"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/img-sprite.png",
+      "PackagePath": "staticwebassets/images/img-sprite.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/into.png",
+      "PackagePath": "staticwebassets/images/into.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/pp.jpg",
+      "PackagePath": "staticwebassets/images/pp.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/pp0.jpg",
+      "PackagePath": "staticwebassets/images/pp0.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/pp01.jpg",
+      "PackagePath": "staticwebassets/images/pp01.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/settings.png",
+      "PackagePath": "staticwebassets/images/settings.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images/tick-mark.png",
+      "PackagePath": "staticwebassets/images/tick-mark.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/images_2/599b775c-2412-4ab6-9159-873384fbff90.jpg",
+      "PackagePath": "staticwebassets/images_2/599b775c-2412-4ab6-9159-873384fbff90.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/Chart1.js",
+      "PackagePath": "staticwebassets/js/Chart1.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/clndr.js",
+      "PackagePath": "staticwebassets/js/clndr.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets/js/easyResponsiveTabs.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/jquery.easydropdown.js",
+      "PackagePath": "staticwebassets/js/jquery.easydropdown.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/jquery.nicescroll.js",
+      "PackagePath": "staticwebassets/js/jquery.nicescroll.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/jquery.vmap.js",
+      "PackagePath": "staticwebassets/js/jquery.vmap.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets/js/jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/jquery.vmap.world.js",
+      "PackagePath": "staticwebassets/js/jquery.vmap.world.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/main2.js",
+      "PackagePath": "staticwebassets/js/main2.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/moment-2.2.1.js",
+      "PackagePath": "staticwebassets/js/moment-2.2.1.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/js/underscore-min.js",
+      "PackagePath": "staticwebassets/js/underscore-min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/animate/animate.css",
+      "PackagePath": "staticwebassets/vendor/animate/animate.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/animsition/css/animsition.css",
+      "PackagePath": "staticwebassets/vendor/animsition/css/animsition.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/animsition/css/animsition.min.css",
+      "PackagePath": "staticwebassets/vendor/animsition/css/animsition.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/animsition/js/animsition.js",
+      "PackagePath": "staticwebassets/vendor/animsition/js/animsition.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/animsition/js/animsition.min.js",
+      "PackagePath": "staticwebassets/vendor/animsition/js/animsition.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/js/popper.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/popper.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/js/popper.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/bootstrap/js/tooltip.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/tooltip.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/countdowntime/countdowntime.js",
+      "PackagePath": "staticwebassets/vendor/countdowntime/countdowntime.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/css-hamburgers/hamburgers.css",
+      "PackagePath": "staticwebassets/vendor/css-hamburgers/hamburgers.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/css-hamburgers/hamburgers.min.css",
+      "PackagePath": "staticwebassets/vendor/css-hamburgers/hamburgers.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/daterangepicker/daterangepicker.css",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/daterangepicker.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/daterangepicker/daterangepicker.js",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/daterangepicker.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/daterangepicker/moment.js",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/moment.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/daterangepicker/moment.min.js",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/moment.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/jquery/jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/perfect-scrollbar/perfect-scrollbar.css",
+      "PackagePath": "staticwebassets/vendor/perfect-scrollbar/perfect-scrollbar.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/perfect-scrollbar/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/vendor/perfect-scrollbar/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/select2/select2.css",
+      "PackagePath": "staticwebassets/vendor/select2/select2.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/select2/select2.js",
+      "PackagePath": "staticwebassets/vendor/select2/select2.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/select2/select2.min.css",
+      "PackagePath": "staticwebassets/vendor/select2/select2.min.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/vendor/select2/select2.min.js",
+      "PackagePath": "staticwebassets/vendor/select2/select2.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/about.html",
+      "PackagePath": "staticwebassets/web/about.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/bread.html",
+      "PackagePath": "staticwebassets/web/bread.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/checkout.html",
+      "PackagePath": "staticwebassets/web/checkout.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/css/bootstrap.css",
+      "PackagePath": "staticwebassets/web/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/css/creditly.css",
+      "PackagePath": "staticwebassets/web/css/creditly.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/css/easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets/web/css/easy-responsive-tabs.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/css/flexslider.css",
+      "PackagePath": "staticwebassets/web/css/flexslider.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/css/font-awesome.css",
+      "PackagePath": "staticwebassets/web/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/css/style.css",
+      "PackagePath": "staticwebassets/web/css/style.css"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/drinks.html",
+      "PackagePath": "staticwebassets/web/drinks.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/events.html",
+      "PackagePath": "staticwebassets/web/events.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/faqs.html",
+      "PackagePath": "staticwebassets/web/faqs.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/web/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/web/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/web/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/web/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/web/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/web/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/fonts/glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets/web/fonts/glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/frozen.html",
+      "PackagePath": "staticwebassets/web/frozen.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/household.html",
+      "PackagePath": "staticwebassets/web/household.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/1.jpg",
+      "PackagePath": "staticwebassets/web/images/1.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/1.png",
+      "PackagePath": "staticwebassets/web/images/1.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/10.jpg",
+      "PackagePath": "staticwebassets/web/images/10.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/10.png",
+      "PackagePath": "staticwebassets/web/images/10.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/11.jpg",
+      "PackagePath": "staticwebassets/web/images/11.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/11.png",
+      "PackagePath": "staticwebassets/web/images/11.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/12.jpg",
+      "PackagePath": "staticwebassets/web/images/12.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/12.png",
+      "PackagePath": "staticwebassets/web/images/12.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/13.jpg",
+      "PackagePath": "staticwebassets/web/images/13.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/13.png",
+      "PackagePath": "staticwebassets/web/images/13.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/14.jpg",
+      "PackagePath": "staticwebassets/web/images/14.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/14.png",
+      "PackagePath": "staticwebassets/web/images/14.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/15.jpg",
+      "PackagePath": "staticwebassets/web/images/15.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/15.png",
+      "PackagePath": "staticwebassets/web/images/15.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/16.jpg",
+      "PackagePath": "staticwebassets/web/images/16.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/16.png",
+      "PackagePath": "staticwebassets/web/images/16.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/17.jpg",
+      "PackagePath": "staticwebassets/web/images/17.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/17.png",
+      "PackagePath": "staticwebassets/web/images/17.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/18.jpg",
+      "PackagePath": "staticwebassets/web/images/18.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/18.png",
+      "PackagePath": "staticwebassets/web/images/18.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/19.jpg",
+      "PackagePath": "staticwebassets/web/images/19.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/19.png",
+      "PackagePath": "staticwebassets/web/images/19.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/2.jpg",
+      "PackagePath": "staticwebassets/web/images/2.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/2.png",
+      "PackagePath": "staticwebassets/web/images/2.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/20.jpg",
+      "PackagePath": "staticwebassets/web/images/20.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/20.png",
+      "PackagePath": "staticwebassets/web/images/20.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/21.jpg",
+      "PackagePath": "staticwebassets/web/images/21.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/21.png",
+      "PackagePath": "staticwebassets/web/images/21.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/22.jpg",
+      "PackagePath": "staticwebassets/web/images/22.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/22.png",
+      "PackagePath": "staticwebassets/web/images/22.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/23.jpg",
+      "PackagePath": "staticwebassets/web/images/23.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/23.png",
+      "PackagePath": "staticwebassets/web/images/23.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/24.jpg",
+      "PackagePath": "staticwebassets/web/images/24.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/24.png",
+      "PackagePath": "staticwebassets/web/images/24.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/25.jpg",
+      "PackagePath": "staticwebassets/web/images/25.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/25.png",
+      "PackagePath": "staticwebassets/web/images/25.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/26.jpg",
+      "PackagePath": "staticwebassets/web/images/26.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/26.png",
+      "PackagePath": "staticwebassets/web/images/26.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/27.jpg",
+      "PackagePath": "staticwebassets/web/images/27.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/27.png",
+      "PackagePath": "staticwebassets/web/images/27.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/28.jpg",
+      "PackagePath": "staticwebassets/web/images/28.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/28.png",
+      "PackagePath": "staticwebassets/web/images/28.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/29.jpg",
+      "PackagePath": "staticwebassets/web/images/29.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/29.png",
+      "PackagePath": "staticwebassets/web/images/29.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/3.jpg",
+      "PackagePath": "staticwebassets/web/images/3.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/3.png",
+      "PackagePath": "staticwebassets/web/images/3.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/30.jpg",
+      "PackagePath": "staticwebassets/web/images/30.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/30.png",
+      "PackagePath": "staticwebassets/web/images/30.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/31.jpg",
+      "PackagePath": "staticwebassets/web/images/31.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/31.png",
+      "PackagePath": "staticwebassets/web/images/31.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/32.jpg",
+      "PackagePath": "staticwebassets/web/images/32.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/32.png",
+      "PackagePath": "staticwebassets/web/images/32.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/33.jpg",
+      "PackagePath": "staticwebassets/web/images/33.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/33.png",
+      "PackagePath": "staticwebassets/web/images/33.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/34.jpg",
+      "PackagePath": "staticwebassets/web/images/34.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/34.png",
+      "PackagePath": "staticwebassets/web/images/34.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/35.jpg",
+      "PackagePath": "staticwebassets/web/images/35.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/35.png",
+      "PackagePath": "staticwebassets/web/images/35.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/36.png",
+      "PackagePath": "staticwebassets/web/images/36.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/37.png",
+      "PackagePath": "staticwebassets/web/images/37.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/38.png",
+      "PackagePath": "staticwebassets/web/images/38.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/39.png",
+      "PackagePath": "staticwebassets/web/images/39.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/4.jpg",
+      "PackagePath": "staticwebassets/web/images/4.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/4.png",
+      "PackagePath": "staticwebassets/web/images/4.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/40.png",
+      "PackagePath": "staticwebassets/web/images/40.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/41.png",
+      "PackagePath": "staticwebassets/web/images/41.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/42.png",
+      "PackagePath": "staticwebassets/web/images/42.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/43.png",
+      "PackagePath": "staticwebassets/web/images/43.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/44.png",
+      "PackagePath": "staticwebassets/web/images/44.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/45.png",
+      "PackagePath": "staticwebassets/web/images/45.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/46.png",
+      "PackagePath": "staticwebassets/web/images/46.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/47.png",
+      "PackagePath": "staticwebassets/web/images/47.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/48.png",
+      "PackagePath": "staticwebassets/web/images/48.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/49.png",
+      "PackagePath": "staticwebassets/web/images/49.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/5.jpg",
+      "PackagePath": "staticwebassets/web/images/5.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/5.png",
+      "PackagePath": "staticwebassets/web/images/5.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/50.png",
+      "PackagePath": "staticwebassets/web/images/50.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/51.png",
+      "PackagePath": "staticwebassets/web/images/51.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/52.png",
+      "PackagePath": "staticwebassets/web/images/52.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/53.png",
+      "PackagePath": "staticwebassets/web/images/53.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/54.png",
+      "PackagePath": "staticwebassets/web/images/54.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/55.png",
+      "PackagePath": "staticwebassets/web/images/55.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/56.png",
+      "PackagePath": "staticwebassets/web/images/56.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/57.png",
+      "PackagePath": "staticwebassets/web/images/57.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/58.png",
+      "PackagePath": "staticwebassets/web/images/58.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/59.png",
+      "PackagePath": "staticwebassets/web/images/59.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/6.jpg",
+      "PackagePath": "staticwebassets/web/images/6.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/6.png",
+      "PackagePath": "staticwebassets/web/images/6.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/60.png",
+      "PackagePath": "staticwebassets/web/images/60.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/61.png",
+      "PackagePath": "staticwebassets/web/images/61.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/62.png",
+      "PackagePath": "staticwebassets/web/images/62.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/63.png",
+      "PackagePath": "staticwebassets/web/images/63.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/64.png",
+      "PackagePath": "staticwebassets/web/images/64.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/65.png",
+      "PackagePath": "staticwebassets/web/images/65.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/66.png",
+      "PackagePath": "staticwebassets/web/images/66.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/67.png",
+      "PackagePath": "staticwebassets/web/images/67.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/68.png",
+      "PackagePath": "staticwebassets/web/images/68.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/69.png",
+      "PackagePath": "staticwebassets/web/images/69.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/7.jpg",
+      "PackagePath": "staticwebassets/web/images/7.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/7.png",
+      "PackagePath": "staticwebassets/web/images/7.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/70.png",
+      "PackagePath": "staticwebassets/web/images/70.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/71.png",
+      "PackagePath": "staticwebassets/web/images/71.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/72.png",
+      "PackagePath": "staticwebassets/web/images/72.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/73.png",
+      "PackagePath": "staticwebassets/web/images/73.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/74.png",
+      "PackagePath": "staticwebassets/web/images/74.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/75.png",
+      "PackagePath": "staticwebassets/web/images/75.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/76.png",
+      "PackagePath": "staticwebassets/web/images/76.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/8.jpg",
+      "PackagePath": "staticwebassets/web/images/8.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/8.png",
+      "PackagePath": "staticwebassets/web/images/8.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/9.jpg",
+      "PackagePath": "staticwebassets/web/images/9.jpg"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/9.png",
+      "PackagePath": "staticwebassets/web/images/9.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/arrow.png",
+      "PackagePath": "staticwebassets/web/images/arrow.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/card.png",
+      "PackagePath": "staticwebassets/web/images/card.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/cart.png",
+      "PackagePath": "staticwebassets/web/images/cart.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/close_1.png",
+      "PackagePath": "staticwebassets/web/images/close_1.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/img-sp.png",
+      "PackagePath": "staticwebassets/web/images/img-sp.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/offer.png",
+      "PackagePath": "staticwebassets/web/images/offer.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/paypal.png",
+      "PackagePath": "staticwebassets/web/images/paypal.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/star.png",
+      "PackagePath": "staticwebassets/web/images/star.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/star1.png",
+      "PackagePath": "staticwebassets/web/images/star1.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/images/tag.png",
+      "PackagePath": "staticwebassets/web/images/tag.png"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/index.html",
+      "PackagePath": "staticwebassets/web/index.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/web/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/counterup.min.js",
+      "PackagePath": "staticwebassets/web/js/counterup.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/creditly.js",
+      "PackagePath": "staticwebassets/web/js/creditly.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/easing.js",
+      "PackagePath": "staticwebassets/web/js/easing.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets/web/js/easyResponsiveTabs.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets/web/js/jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/jquery.flexslider.js",
+      "PackagePath": "staticwebassets/web/js/jquery.flexslider.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/jquery.wmuSlider.js",
+      "PackagePath": "staticwebassets/web/js/jquery.wmuSlider.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/minicart.js",
+      "PackagePath": "staticwebassets/web/js/minicart.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/move-top.js",
+      "PackagePath": "staticwebassets/web/js/move-top.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/okzoom.js",
+      "PackagePath": "staticwebassets/web/js/okzoom.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/js/waypoints.min.js",
+      "PackagePath": "staticwebassets/web/js/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/kitchen.html",
+      "PackagePath": "staticwebassets/web/kitchen.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/login.html",
+      "PackagePath": "staticwebassets/web/login.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/mail.html",
+      "PackagePath": "staticwebassets/web/mail.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/payment.html",
+      "PackagePath": "staticwebassets/web/payment.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/pet.html",
+      "PackagePath": "staticwebassets/web/pet.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/privacy.html",
+      "PackagePath": "staticwebassets/web/privacy.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/products.html",
+      "PackagePath": "staticwebassets/web/products.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/services.html",
+      "PackagePath": "staticwebassets/web/services.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/short-codes.html",
+      "PackagePath": "staticwebassets/web/short-codes.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/single.html",
+      "PackagePath": "staticwebassets/web/single.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/vegetables.html",
+      "PackagePath": "staticwebassets/web/vegetables.html"
+    },
+    {
+      "Id": "/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/wwwroot/web/w3layouts-License.txt",
+      "PackagePath": "staticwebassets/web/w3layouts-License.txt"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.CoreAndFood.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.CoreAndFood.props",
+      "PackagePath": "build\\CoreAndFood.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CoreAndFood.props",
+      "PackagePath": "buildMultiTargeting\\CoreAndFood.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CoreAndFood.props",
+      "PackagePath": "buildTransitive\\CoreAndFood.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

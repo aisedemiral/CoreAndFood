@@ -1,0 +1,33 @@
+﻿@model CoreAndFood.Models.AddProduct
+@{
+    ViewData["Title"] = "AddFood";
+    Layout = "~/Views/Shared/_CoreFoodLayout.cshtml";
+}
+
+<h1>Add Food Page</h1>
+<hr />
+
+<form class="form-group" method="post" asp-action="AddFood" asp-controller="Food" enctype="multipart/form-data">
+    @Html.Label("Food Name")
+    @Html.TextBoxFor(x=>x.Name,new {@class = "form-control"} )
+    <br />
+    @Html.Label("Stock")
+    @Html.TextBoxFor(x=>x.Stock,new {@class = "form-control"})   
+    <br />
+    @Html.Label("Price")
+    @Html.TextBoxFor(x=>x.Price,new {@class = "form-control"})    
+    <br />
+    @Html.Label("Choose Image")<br />
+   @* @Html.TextBoxFor(x=>x.ImageURL,new {@class = "form-control"})  *@ 
+    <input type="file" name="ImageURL" />
+    <br />
+    <br />
+    @Html.Label("Category")
+    @Html.DropDownListFor(x=>x.CategoryID,(List<SelectListItem>)ViewBag.v1,new {@class = "form-control"})
+    <br />
+    @Html.Label("Food Description")
+    @Html.TextAreaFor(x=>x.Description,new {@class = "form-control"})
+    <br />
+    <button class="btn btn-outline-warning">Save</button>
+    </form>
+

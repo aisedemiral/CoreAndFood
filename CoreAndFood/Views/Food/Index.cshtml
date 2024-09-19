@@ -1,0 +1,43 @@
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+
+@model IPagedList<CoreAndFood.Models.Food>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_CoreFoodLayout.cshtml";
+}
+
+<h2>Category List</h2>
+<br />
+<table class="table table-bordered table-dark">
+    <tr>
+        <th>ID</th>
+        <th>Food Name</th>
+        <th>Category Name</th>
+        <th>Price</th>
+        <th>Stock</th>
+        <th>Delete</th>
+        <th>Update</th>
+        <th>Details</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.FoodID</td>
+            <td>@x.Name</td>
+            <td>@x.Category.CategoryName</td>
+            <td>@x.Price ₺/Kg</td>
+            <td>@x.Stock Box</td>
+            <td><a asp-action="DeleteFood" asp-controller="Food" asp-route-id="@x.FoodID" class="btn btn-outline-danger">Delete</a></td>
+            <td><a asp-action="GetFood" asp-controller="Food" asp-route-id="@x.FoodID" class="btn btn-outline-info">Update</a></td>
+            <td><a href="#" class="btn btn-outline-warning">Details</a></td>
+        </tr>
+    }
+</table>
+@Html.PagedListPager((IPagedList)Model,page=>Url.Action("Index",new { page }),new X.PagedList.Web.Common.PagedListRenderOptions {
+    UlElementClasses= new string[] {"pagination justify-content-center bg-dark"},
+    LiElementClasses = new string[] {"page-item bg-dark"},
+    PageClasses = new string[] {"page-link bg-dark"}
+})
+<a asp-action="AddFood" asp-controller="Food" class="btn btn-dark">Add New Food</a>
+

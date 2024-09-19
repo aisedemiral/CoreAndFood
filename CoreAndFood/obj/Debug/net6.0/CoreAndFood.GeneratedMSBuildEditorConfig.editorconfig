@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CoreAndFood
+build_property.RootNamespace = CoreAndFood
+build_property.ProjectDir = /Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Category/CategoryAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQ2F0ZWdvcnlBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Category/CategoryGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQ2F0ZWdvcnlHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Chart/ColIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcnQvQ29sSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Chart/FoodIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcnQvRm9vZEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Chart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcnQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Chart/Statistics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcnQvU3RhdGlzdGljcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Default/CategoryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9DYXRlZ29yeURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Default/Components/FoodListByCategory/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9Db21wb25lbnRzL0Zvb2RMaXN0QnlDYXRlZ29yeS9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Default/Components/GetCategoryList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9Db21wb25lbnRzL0dldENhdGVnb3J5TGlzdC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Default/Components/GetFoodList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9Db21wb25lbnRzL0dldEZvb2RMaXN0L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Food/AddFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9vZC9BZGRGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Food/GetFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9vZC9HZXRGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Food/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9vZC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Shared/_CoreFoodLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db3JlRm9vZExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Shared/_SiteLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TaXRlTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mumineaisedemiral/Desktop/ASP.NET CORE/CoreAndFood/CoreAndFood/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l5oou2jsau
